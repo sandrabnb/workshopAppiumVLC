@@ -1,11 +1,11 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="Full Suite" verbose="1">
-    <listeners>
-        <listener class-name="appium.helpers.StartAndStopSuitelistener"/>
-    </listeners>
 
     <test name="all-appium-tests">
+        <parameter name="platform" value = "android"/>
+        <parameter name="platformVersion" value="9"/>
+        <parameter name="udid" value="S9"/>
         <packages>
             <package name="appium.test.*" />
         </packages>
