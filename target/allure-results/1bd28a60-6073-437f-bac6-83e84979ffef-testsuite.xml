@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1569919160402" stop="1569919194653" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : untitled</name>
+    <title>Default Suite : untitled</title>
+    <test-cases>
+        <test-case start="1569919160758" stop="1569919194638" status="broken">
+            <name>testSearchAPI</name>
+            <description></description>
+            <failure>
+                <message>Test was interrupted</message>
+            </failure>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="untitled"/>
+                <label name="testClass" value="api.APItest"/>
+                <label name="testMethod" value="testSearchAPI"/>
+                <label name="host" value="Sandras-MacBook-Pro.local"/>
+                <label name="thread" value="9079@Sandras-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1569919160402" stop="1569919194642" status="broken">
+            <name>Default Suite : untitled</name>
+            <title>Default Suite : untitled</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

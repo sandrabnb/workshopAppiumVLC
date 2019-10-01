@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1569915110241" stop="1569915143353" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : untitled</name>
+    <title>Default Suite : untitled</title>
+    <test-cases>
+        <test-case start="1569915126285" stop="1569915141217" status="passed">
+            <name>fullOnboardingTest</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="untitled"/>
+                <label name="testClass" value="appium.test.OnBoardingTest"/>
+                <label name="testMethod" value="fullOnboardingTest"/>
+                <label name="host" value="Sandras-MacBook-Pro.local"/>
+                <label name="thread" value="8203@Sandras-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

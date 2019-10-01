@@ -1,0 +1,1 @@
+{"uuid":"15dd92fe-2d8b-4ada-b426-330c0c9ed457","name":"appium.test.BaseTest.tearDown","description":"","start":1569915141254,"stop":1569915143347,"children":["447c4251-16f7-47ea-af8e-eda49d9db4d6"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1569915141255,"stop":1569915143347}]}
